@@ -16,7 +16,8 @@ Persistent Storage: Tasks are saved in Local Storage, so they remain even after 
 
 Live Demo
 
-(Optional: Insert a link to a live version of your app or include a screenshot)
+<img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/0a5469f5-3aae-4a32-9336-d0e370960671" />
+
 
 
 Installation & Setup
